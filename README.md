@@ -5,7 +5,9 @@ _A hands‑on project demonstrating my ability to analyse data and design insigh
 ## 🔍 Overview
 This repository contains my work from a Tableau-focused training week within the Data Technician programme.
 The project showcases how I use Tableau Desktop and Tableau Public to build dashboards, explore datasets, identify trends, and communicate insights visually.
+
 ---
+
 ## 🚀 Skills Demonstrated
 
 ### ✔️ Tableau Dashboard Design
