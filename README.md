@@ -7,6 +7,20 @@ This repository contains my work from a Tableau-focused training week within the
 The project showcases how I use Tableau Desktop and Tableau Public to build dashboards, explore datasets, identify trends, and communicate insights visually.
 
 ---
+## 🧠 Key Learning Outcomes
+
+Throughout this Tableau project, I strengthened my ability to:
+- Turn raw data into interactive dashboards
+- Build maps and location‑based visualisations
+- Present insights in a compelling visual format
+- Use Tableau to support real‑world decision‑making
+- Communicate complex analysis clearly
+- Understand how Tableau fits into a wider BI workflow
+
+For example:
+- Health Dataset: BMI strongly correlates with blood pressure and other health risks — insights valuable for NHS early intervention.
+
+---
 ## 🚀 Skills Demonstrated
 
 ### ✔️ Tableau Dashboard Design
@@ -48,24 +62,9 @@ The project showcases how I use Tableau Desktop and Tableau Public to build dash
 ## 📁 Project Contents
 
 - EMSI Job Change analysis (bar chart + UK map)
-- Spotify dataset dashboard & insights
 - NHS Health dataset analysis & recommendations
 - Screenshots of dashboards created
 - Notes and reflections
-
----
-## 🧠 Key Learning Outcomes
-
-Throughout this Tableau project, I strengthened my ability to:
-- Turn raw data into interactive dashboards
-- Build maps and location‑based visualisations
-- Present insights in a compelling visual format
-- Use Tableau to support real‑world decision‑making
-- Communicate complex analysis clearly
-- Understand how Tableau fits into a wider BI workflow
-
-For example:
-Health Dataset: BMI strongly correlates with blood pressure and other health risks — insights valuable for NHS early intervention.
 
 ---
 ## 🛠 Tools Used
@@ -78,3 +77,5 @@ Health Dataset: BMI strongly correlates with blood pressure and other health ris
 ---
 ## 📸 GB Employment Dataset
 [Link to my Dashboard](https://public.tableau.com/app/profile/joe.c3141/viz/GBEmplaymentDataset/GBEmploymentData)
+![Uploading image.png…]()
+
