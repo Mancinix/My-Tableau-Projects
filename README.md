@@ -78,3 +78,8 @@ For example:
 ## 📸 GB Employment Dataset
 [Link to my Dashboard](https://public.tableau.com/app/profile/joe.c3141/viz/GBEmplaymentDataset/GBEmploymentData)
 <img width="2888" height="1654" alt="brave_9OjTnLlfEA" src="https://github.com/user-attachments/assets/8b19b161-d987-4c4d-b488-11e0615b3531" />
+
+## 📸 Health Dashboard
+[Link to my Dashboard]
+(https://public.tableau.com/app/profile/joe.c3141/viz/GapminderHealth_17834316697820/GlobalHealthInsights)
+<img width="1446" height="841" alt="brave_jlvbWcrYLQ" src="https://github.com/user-attachments/assets/d88c6fff-0923-40d0-aba5-5d98a7c5006e" />
