@@ -51,6 +51,7 @@ The project showcases how I use Tableau Desktop and Tableau Public to build dash
 - Screenshots of dashboards created
 - Notes and reflections
 
+
 ## 🧠 Key Learning Outcomes
 
 Throughout this Tableau project, I strengthened my ability to:
