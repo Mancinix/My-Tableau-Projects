@@ -45,6 +45,7 @@ The project showcases how I use Tableau Desktop and Tableau Public to build dash
   - Limited permissions and publishing control
   - No local saving (cloud-only)
 
+---
 ## 📁 Project Contents
 
 - EMSI Job Change analysis (bar chart + UK map)
