@@ -7,7 +7,6 @@ This repository contains my work from a Tableau-focused training week within the
 The project showcases how I use Tableau Desktop and Tableau Public to build dashboards, explore datasets, identify trends, and communicate insights visually.
 
 ---
-
 ## 🚀 Skills Demonstrated
 
 ### ✔️ Tableau Dashboard Design
@@ -54,7 +53,7 @@ The project showcases how I use Tableau Desktop and Tableau Public to build dash
 - Screenshots of dashboards created
 - Notes and reflections
 
-
+---
 ## 🧠 Key Learning Outcomes
 
 Throughout this Tableau project, I strengthened my ability to:
@@ -68,9 +67,14 @@ Throughout this Tableau project, I strengthened my ability to:
 For example:
 Health Dataset: BMI strongly correlates with blood pressure and other health risks — insights valuable for NHS early intervention.
 
+---
 ## 🛠 Tools Used
 
 - Tableau Desktop
 - Tableau Public
 - Tableau mapping features
 - Data blending & visual analytics tools
+
+---
+## 📸 Employment Dashboard
+[Link to my Dashboard](https://public.tableau.com/app/profile/joe.c3141/viz/GBEmplaymentDataset/GBEmploymentData)
