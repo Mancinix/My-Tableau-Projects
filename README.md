@@ -77,5 +77,4 @@ For example:
 ---
 ## 📸 GB Employment Dataset
 [Link to my Dashboard](https://public.tableau.com/app/profile/joe.c3141/viz/GBEmplaymentDataset/GBEmploymentData)
-![Uploading image.png…]()
-
+<img width="2888" height="1654" alt="brave_9OjTnLlfEA" src="https://github.com/user-attachments/assets/8b19b161-d987-4c4d-b488-11e0615b3531" />
